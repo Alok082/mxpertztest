@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028012959477",
+    "project_id": "mxpertztest",
+    "storage_bucket": "mxpertztest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028012959477:android:a9babbee9aa61565b987bc",
+        "android_client_info": {
+          "package_name": "com.example.mxpertztest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-tLNW8dk5lKxVmXQDngOdxUYIz_hU7i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
